@@ -37,7 +37,7 @@ Passionate about coding, building tools, and exploring cybersecurity.
 
 ---
 
-## 🔐 Cybersecurity Interests
+## 🔐 Cybersecurity Interests(just for fun)
 
 - Ethical Hacking fundamentals
 - OSINT tools
