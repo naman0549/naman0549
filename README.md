@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naman Sharma</h1>
-<h3 align="center">💻 Developer | 🚀 Android • Web • Automation</h3>
+<h3 align="center">💻 Android Developer | ⚙️ Automation Builder | 🚀 Learning AI Systems</h3>
 
 <p align="center">
-Passionate about coding, building tools, and exploring cybersecurity.
+I build real-world apps and automation tools that solve problems.<br>
+Focused on Android development, backend logic, and system design.
 </p>
 
 <p align="center">
@@ -13,11 +14,20 @@ Passionate about coding, building tools, and exploring cybersecurity.
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Android Development, Web Development, AI Agents, and Automation**
-- 💡 I enjoy building **creative and useful projects**
-- 🤖 Interested in **bots, automation systems, and developer tools**
-- 🔐 Exploring **Cybersecurity and OSINT**
-- 🧠 Always learning new technologies
+- 📱 Building **Android apps with real functionality**
+- ⚙️ Creating **automation systems, bots, and tools**
+- 🤖 Exploring **AI agents and backend logic**
+- 🔐 Learning **cybersecurity & OSINT fundamentals**
+- 🧠 Learning by **building, not just watching tutorials**
+
+---
+
+## 🎯 Current Focus
+
+- 🔐 Developing a **Secure Secret Notes Android App**
+- 🌐 Improving **backend & API skills**
+- 🤖 Building **automation workflows and bots**
+- 🧠 Exploring **AI + real-world use cases**
 
 ---
 
@@ -37,25 +47,45 @@ Passionate about coding, building tools, and exploring cybersecurity.
 
 ---
 
-## 🔐 Cybersecurity Interests(just for fun)
+## 📂 Featured Projects
 
-- Ethical Hacking fundamentals
-- OSINT tools
-- Security testing and vulnerability research
-- Learning how attacks work to build **more secure systems**
+### 🔹 Secret Notes Android App
+- 🔐 Hidden & secure personal storage system  
+- 📝 Notes, To-Do, and private sections  
+- 📱 Built using **Java + Firebase**  
+👉 *Private project (demo coming soon)*
 
 ---
 
-## 📂 Featured Projects
+### 🔹 College Event Management Website
+- 🌐 Platform to manage and organize events  
+- 📋 Event listings, registration, and management system  
+👉 *Project showcase available*
 
-🔹 **College Event Management Website**  
-A web platform to organize and manage college events.
+---
 
-🔹 **Secret Notes Android App**  
-A privacy-focused Android app for storing personal notes and chats.
+### 🔹 Telegram Video Bot
+- 🤖 Downloads videos from links  
+- 💰 Integrated link shortener for monetization  
+- ⚙️ Built using automation workflows  
+👉 *Automation-focused system*
 
-🔹 **Telegram Video Bot with Link Shortener**  
-A Telegram bot that downloads videos and monetizes traffic using link shorteners.
+---
+
+## 📸 Project Preview
+
+<!-- Add your screenshots below -->
+<!-- Example:
+<img src="your-image-link" width="250"/>
+-->
+
+---
+
+## 🔐 Cybersecurity Interests
+
+- Ethical hacking fundamentals  
+- OSINT tools & research  
+- Understanding vulnerabilities & secure system design  
 
 ---
 
@@ -63,7 +93,9 @@ A Telegram bot that downloads videos and monetizes traffic using link shorteners
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naman0549&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naman0549&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naman0549&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman0549&layout=compact&theme=tokyonight"/>
 
@@ -73,8 +105,10 @@ A Telegram bot that downloads videos and monetizes traffic using link shorteners
 
 ## 🔗 Connect With Me
 
-📧 **Email:** dn78sharma@gmail.com
+📧 **Email:** dn78sharma@gmail.com  
 
 ---
 
-⭐ **Always building. Always learning.**
+## ⚡ Final Note
+
+> Building real systems. Not just projects.
