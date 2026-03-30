@@ -7,7 +7,7 @@ Focused on Android development, backend logic, and system design.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=naman0549&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=naman0549&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -34,15 +34,13 @@ Focused on Android development, backend logic, and system design.
 ## 🛠️ Tech Stack
 
 <p>
-
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android"/>
-<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android"/>
+  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -74,7 +72,7 @@ Focused on Android development, backend logic, and system design.
 
 ## 📸 Project Preview
 
-<!-- Add your screenshots below -->
+<!-- Add your screenshots -->
 <!-- Example:
 <img src="your-image-link" width="250"/>
 -->
@@ -92,14 +90,19 @@ Focused on Android development, backend logic, and system design.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=naman0549&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naman0549&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman0549&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=naman0549&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman0549&theme=tokyonight" />
+</p>
+
+<!-- Enable this only when you have public repos -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman0549&layout=compact&theme=tokyonight" />
+</p>
+-->
 
 ---
 
