@@ -1,117 +1,120 @@
-<h1 align="center">Hi 👋, I'm Naman Sharma</h1>
-<h3 align="center">💻 Android Developer | ⚙️ Automation Builder | 🚀 Learning AI Systems</h3>
+<div align="center">
 
-<p align="center">
-I build real-world apps and automation tools that solve problems.<br>
-Focused on Android development, backend logic, and system design.
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img src="banner.svg?v=1" alt="Naman Sharma animated banner" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naman0549&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<br/>
 
----
+<img src="lanyard.svg?v=1" alt="Naman Sharma swinging ID badge" width="260">
+
+<br/>
+
+<a href="https://github.com/naman0549">
+  <img src="https://komarev.com/ghpvc/?username=naman0549&label=Profile%20views&color=9b4dff&style=flat" alt="Profile views"/>
+</a>
+<a href="mailto:dn78sharma@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dn78sharma%40gmail.com-ff4fd8?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/naman0549">
+  <img src="https://img.shields.io/github/followers/naman0549?label=Followers&style=flat&color=9b4dff" alt="GitHub followers"/>
+</a>
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
-- 📱 Building **Android apps with real functionality**
-- ⚙️ Creating **automation systems, bots, and tools**
-- 🤖 Exploring **AI agents and backend logic**
-- 🔐 Learning **cybersecurity & OSINT fundamentals**
-- 🧠 Learning by **building, not just watching tutorials**
+- 📱 Android Developer building real, working apps — not just tutorials
+- 🌐 Web Developer crafting clean HTML/CSS/JS interfaces
+- ⚙️ Automation builder — Git, n8n workflows, and process automation
+- 🧠 Learning by shipping, breaking, and fixing things in public
+- 💬 Ask me about: Java, Android, Git workflows, and n8n automations
 
----
-
-## 🎯 Current Focus
-
-- 🔐 Developing a **Secure Secret Notes Android App**
-- 🌐 Improving **backend & API skills**
-- 🤖 Building **automation workflows and bots**
-- 🧠 Exploring **AI + real-world use cases**
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android"/>
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>
-</p>
+<div align="center">
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-9B4DFF?style=for-the-badge&logo=zapier&logoColor=white)
 
-## 📂 Featured Projects
+</div>
 
-### 🔹 Secret Notes Android App
-- 🔐 Hidden & secure personal storage system  
-- 📝 Notes, To-Do, and private sections  
-- 📱 Built using **Java + Firebase**  
-👉 *Private project (demo coming soon)*
-
----
-
-### 🔹 College Event Management Website
-- 🌐 Platform to manage and organize events  
-- 📋 Event listings, registration, and management system  
-👉 *Project showcase available*
-
----
-
-### 🔹 Telegram Video Bot
-- 🤖 Downloads videos from links  
-- 💰 Integrated link shortener for monetization  
-- ⚙️ Built using automation workflows  
-👉 *Automation-focused system*
-
----
-
-## 📸 Project Preview
-
-<!-- Add your screenshots -->
-<!-- Example:
-<img src="your-image-link" width="250"/>
--->
-
----
-
-## 🔐 Cybersecurity Interests
-
-- Ethical hacking fundamentals  
-- OSINT tools & research  
-- Understanding vulnerabilities & secure system design  
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naman0549&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
+<div align="center">
+<img src="stats.svg?v=1" alt="GitHub stats" width="48%">
+<img src="langs.svg?v=1" alt="Most used languages" width="48%">
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman0549&theme=tokyonight" />
-</p>
+<div align="center">
+<img src="trophies.svg?v=1" alt="GitHub trophies" width="96%">
+</div>
 
-<!-- Enable this only when you have public repos -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman0549&layout=compact&theme=tokyonight" />
-</p>
--->
+<br/>
 
----
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naman0549&theme=react-dark&hide_border=true&bg_color=150019&color=ff4fd8&line=9b4dff&point=5ef2ff" alt="Contribution activity graph" width="100%">
+</div>
+
+<br/>
+
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🔐 naman0549](https://github.com/naman0549/naman0549) | This animated profile README repo | SVG / SMIL / Markdown |
+| [🎓 collage-event-](https://github.com/naman0549/collage-event-) | College event management platform — listings, registration & management | PHP |
+| [⬇️ website-downloader](https://github.com/naman0549/website-downloader) | Tool to download content/video from links | JavaScript |
+| [💼 portfolio](https://github.com/naman0549/portfolio) | Personal developer portfolio site | HTML |
+| [🌦️ weather-bot-](https://github.com/naman0549/weather-bot-) | Automated weather-reporting bot | JavaScript |
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naman0549/naman0549/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naman0549/naman0549/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/naman0549/naman0549/output/github-snake.svg" alt="Contribution snake animation" width="100%">
+</picture>
+
+</div>
+
+<br/>
 
 ## 🔗 Connect With Me
 
-📧 **Email:** dn78sharma@gmail.com  
+<div align="center">
 
----
+<a href="mailto:dn78sharma@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/naman0549">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-## ⚡ Final Note
+</div>
 
-> Building real systems. Not just projects.
+<br/>
+
+<div align="center">
+<sub>💗 Built with pure SVG + SMIL — no third-party rate-limited card services. Code. Coffee. Repeat.</sub>
+</div>
